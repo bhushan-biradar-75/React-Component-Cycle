@@ -1,0 +1,23 @@
+.nav{
+  display: flex;
+  justify-content: space-evenly;
+  list-style-type: none;
+  color: rgb(248, 240, 240);
+  background-image: linear-gradient(#000428 , #004e92);
+  font-size: 1.2rem;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+a{
+  text-decoration: none;
+  color:inherit;
+}
+.con{
+  position: relative;
+  bottom: -1800px;
+}
+.headerbar{
+  background-image: linear-gradient(#000428 , #004e92);
+}
+.text-center{
+  color:lavender;
+}
